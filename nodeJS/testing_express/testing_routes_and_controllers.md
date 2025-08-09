@@ -149,8 +149,8 @@ If we were using a real database here, then we would want to do something simila
 
 <div class="lesson-content__panel" markdown="1">
 
-1. Make sure that you read through the [SuperTest docs](https://github.com/visionmedia/supertest)
-1. SuperTest actually pulls from another related project called SuperAgent.  Any method that you can call in SuperAgent you can also call from SuperTest, so you'll need to take a look through the [SuperAgent docs](https://ladjs.github.io/superagent/) as well.
+1. Make sure that you read through the [SuperTest docs](https://github.com/forwardemail/supertest)
+1. SuperTest actually pulls from another related project called SuperAgent.  Any method that you can call in SuperAgent you can also call from SuperTest, so you'll need to take a look through the [SuperAgent docs](https://forwardemail.github.io/superagent/) as well.
 
 </div>
 
